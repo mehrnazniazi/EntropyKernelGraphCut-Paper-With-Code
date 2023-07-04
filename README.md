@@ -1,4 +1,4 @@
-# EntropyKernelGraphCut-Paper-With-Code
+# EntropyKernelGraphCut-Paper-with-Code
 Entropy-based Kernel Graph Cut for Textural Image Region Segmentation
 
 This repository contains an implementation of the Entropy-based Kernel Graph Cut algorithm for textural image region segmentation. While the RBF kernel graph cut algorithm is effective for general image segmentation, it falls short when applied to textural images due to its reliance on intensity variation and smoothness attributes of the RBF kernel function. To address this limitation and handle image complexity, we introduce an entropy-based kernel function that leverages the advantages of implicit mapping.
